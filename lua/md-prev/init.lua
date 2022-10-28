@@ -45,7 +45,7 @@ function M.start_server(port)
 
   			      local before = [[<html>
   			        <head>
-  			      <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  			      <meta http-equiv="content-type" content="text/html; charset=utf-8">
   			      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css">
   			      <style>
   			      	.markdown-body {
